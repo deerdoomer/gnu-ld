@@ -1,0 +1,2 @@
+# gnu-ld
+learn ld
